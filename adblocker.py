@@ -26581,4 +26581,5 @@ lines[insert_index:insert_index] = [line + "\n" for line in text_to_insert]
 with open(hosts_path, "w", encoding="utf-8") as f:
     f.writelines(lines)
 
-print("נוסף בהצלחה לקובץ hosts")
+print("ad blocker is on.")
+print("for stop it, delete this file: C:\Windows\System32\drivers\etc\hosts or: /etc/hosts on mac.")
