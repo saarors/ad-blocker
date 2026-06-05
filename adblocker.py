@@ -1,7 +1,6 @@
 import os
 
 text_to_insert = """
-
 10.0.0.112 host.docker.internal
 10.0.0.112 gateway.docker.internal
 127.0.0.1 kubernetes.docker.internal
