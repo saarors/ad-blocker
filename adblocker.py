@@ -18,6 +18,16 @@ text_to_insert = """
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 www.googleadservices.com
+127.0.0.1 https://api.mouseflow.com
+127.0.0.1 tools.mouseflow.com
+127.0.0.1 claritybt.freshmarketer.com
+127.0.0.1 fwtracks.freshmarketer.com
+127.0.0.1 realtime.luckyorange.com
+127.0.0.1 analytics.pointdrive.linkedin.com
+127.0.0.1 log.byteoversea.com
+127.0.0.1 tracking.rus.miui.com
+127.0.0.1 grs.hicloud.com
+127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 r1---sn-25ge7n76.googlevideo.com
 127.0.0.1 r1.sn-25ge7n76.googlevideo.com
 127.0.0.1 r2---sn-25ge7n76.googlevideo.com
