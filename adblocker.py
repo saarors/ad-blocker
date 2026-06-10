@@ -1,6 +1,16 @@
 import os
 
 text_to_insert = """
+0.0.0.0 outlookads.live.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 msft-ssp.adnxs.com
+0.0.0.0 msft-ssp-emea.adnxs.com
+0.0.0.0 arc.msn.com
+0.0.0.0 api.taboola.com
+0.0.0.0 3lift.com
+0.0.0.0 eb2.3lift.com
 10.0.0.112 host.docker.internal
 10.0.0.112 gateway.docker.internal
 127.0.0.1 kubernetes.docker.internal
